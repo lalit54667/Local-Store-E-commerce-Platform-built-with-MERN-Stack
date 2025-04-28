@@ -1,0 +1,1 @@
+# Local-Store-E-commerce-Platform-built-with-MERN-Stack
